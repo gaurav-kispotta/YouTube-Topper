@@ -1,4 +1,4 @@
-# YouTube Topper #
+# YouTube Topper :smiley: #
 
 #### This project is an experimental project to understad the `php` and `API`'s provided by the `Youbtube API`. ####
 
